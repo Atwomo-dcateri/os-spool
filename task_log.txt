@@ -210,3 +210,109 @@
 [Producer-2] Queue is full, waiting... (Task-6)
 [Consumer-2] Queue is empty, waiting...
 [Producer-1] Queue is full, waiting... (Task-6)
+[Producer-1] Added Task-1 with priority 3
+[Producer-3] Added Task-1 with priority 7
+[Consumer-1] Queue is empty, waiting...
+[Producer-2] Added Task-1 with priority 1
+[Consumer-2] Queue is empty, waiting...
+[Producer-3] Added Task-2 with priority 2
+[Producer-1] Added Task-2 with priority 4
+[Producer-2] Added Task-2 with priority 7
+[Producer-3] Added Task-3 with priority 8
+[Producer-1] Added Task-3 with priority 6
+[Consumer-1] Queue is empty, waiting...
+[Producer-2] Added Task-3 with priority 10
+[Consumer-2] Queue is empty, waiting...
+[Producer-3] Added Task-4 with priority 3
+[Producer-2] Added Task-4 with priority 7
+[Producer-1] Added Task-4 with priority 3
+[Consumer-1] Queue is empty, waiting...
+[Producer-2] Added Task-5 with priority 1
+[Producer-1] Added Task-5 with priority 3
+[Producer-3] Added Task-5 with priority 1
+[Consumer-2] Queue is empty, waiting...
+[Producer-1] Queue is full, waiting... (Task-6)
+[Producer-2] Queue is full, waiting... (Task-6)
+[Producer-3] Queue is full, waiting... (Task-6)
+[Consumer-1] Queue is empty, waiting...
+[Producer-1] Added Task-1 with priority 7
+[Producer-3] Added Task-1 with priority 8
+[Producer-1] Added Task-2 with priority 5
+[Consumer-2] Queue is empty, waiting...
+[Producer-2] Added Task-1 with priority 7
+[Consumer-1] Queue is empty, waiting...
+[Producer-3] Added Task-2 with priority 3
+[Producer-2] Added Task-2 with priority 1
+[Producer-1] Added Task-3 with priority 3
+[Producer-3] Added Task-3 with priority 2
+[Consumer-2] Queue is empty, waiting...
+[Producer-1] Added Task-4 with priority 2
+[Consumer-1] Queue is empty, waiting...
+[Producer-2] Added Task-3 with priority 7
+[Producer-3] Added Task-4 with priority 2
+[Producer-1] Added Task-5 with priority 8
+[Producer-2] Added Task-4 with priority 8
+[Consumer-2] Queue is empty, waiting...
+[Consumer-1] Queue is empty, waiting...
+[Producer-3] Added Task-5 with priority 5
+[Producer-1] Queue is full, waiting... (Task-6)
+[Producer-3] Queue is full, waiting... (Task-6)
+[Producer-2] Added Task-5 with priority 9
+[Consumer-1] Queue is empty, waiting...
+[Consumer-2] Queue is empty, waiting...
+[Producer-2] Queue is full, waiting... (Task-6)
+[Producer-1] Queue is full, waiting... (Task-6)
+[Producer-3] Queue is full, waiting... (Task-6)
+[Producer-2] Added Task-1 with priority 7
+[Producer-1] Added Task-1 with priority 4
+[Producer-3] Added Task-1 with priority 2
+[Consumer-1] Queue is empty, waiting...
+[Producer-2] Added Task-2 with priority 9
+[Consumer-2] Queue is empty, waiting...
+[Producer-3] Added Task-2 with priority 8
+[Producer-1] Added Task-2 with priority 2
+[Producer-2] Added Task-3 with priority 8
+[Producer-3] Added Task-3 with priority 4
+[Consumer-1] Queue is empty, waiting...
+[Producer-2] Added Task-4 with priority 1
+[Producer-1] Added Task-3 with priority 1
+[Producer-3] Added Task-4 with priority 10
+[Consumer-2] Queue is empty, waiting...
+[Producer-2] Added Task-5 with priority 3
+[Producer-1] Added Task-4 with priority 5
+[Producer-2] Queue is full, waiting... (Task-6)
+[Producer-3] Added Task-5 with priority 3
+[Consumer-1] Queue is empty, waiting...
+[Producer-1] Added Task-5 with priority 8
+[Consumer-2] Queue is empty, waiting...
+[Producer-2] Queue is full, waiting... (Task-6)
+[Producer-3] Queue is full, waiting... (Task-6)
+[Producer-1] Queue is full, waiting... (Task-6)
+[Consumer-1] Queue is empty, waiting...
+[Producer-1] Added Task-1 with priority 9
+[Producer-3] Added Task-1 with priority 8
+[Producer-2] Added Task-1 with priority 9
+[Consumer-1] Queue is empty, waiting...
+[Consumer-2] Queue is empty, waiting...
+[Producer-1] Added Task-2 with priority 4
+[Producer-3] Added Task-2 with priority 1
+[Producer-2] Added Task-2 with priority 1
+[Producer-1] Added Task-3 with priority 7
+[Producer-3] Added Task-3 with priority 9
+[Consumer-2] Queue is empty, waiting...
+[Consumer-1] Queue is empty, waiting...
+[Producer-2] Added Task-3 with priority 3
+[Producer-1] Added Task-4 with priority 9
+[Producer-3] Added Task-4 with priority 2
+[Producer-1] Added Task-5 with priority 9
+[Producer-2] Added Task-4 with priority 1
+[Producer-3] Added Task-5 with priority 7
+[Consumer-1] Queue is empty, waiting...
+[Consumer-2] Queue is empty, waiting...
+[Producer-1] Queue is full, waiting... (Task-6)
+[Producer-2] Added Task-5 with priority 1
+[Producer-3] Queue is full, waiting... (Task-6)
+[Producer-2] Queue is full, waiting... (Task-6)
+[Consumer-2] Queue is empty, waiting...
+[Producer-1] Queue is full, waiting... (Task-6)
+[Consumer-1] Queue is empty, waiting...
